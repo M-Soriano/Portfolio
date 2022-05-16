@@ -8,8 +8,58 @@
 body {
     /* I'm a css comment!*/
     
-    color:black;
+    color:aqua;
     
     font-family: Arial, Helvetica, sans-serif;
     
+}
+header h1 {
+    font-weight: bold;
+
+    font-size: 36px;
+
+    color: #fce138;
+
+    margin: 0;
+
+    display: inline;
+    
+
+}
+
+
+header a {
+    text-decoration: none;
+    
+    
+    color: black;
+}
+
+header nav {
+    
+    float: right;
+    
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+
+    margin: 0 30px;
+    
+    font-weight: bolder;
+    
+    font-size: 24px;
+}
+
+.run img {
+    width: 50%;
+    margin: 10px 0;
+
+}
+section {
+    padding: 60px;
 }
