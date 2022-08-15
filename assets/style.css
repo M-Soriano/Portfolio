@@ -72,14 +72,14 @@ section {
 .pageimage {
     background-image:url(../assets/img/DSC00235.JPG);
 }
-section2 {
-    
-    width: 50%;
-    margin: 10px 0;
-    padding: 60px;
-}
+
 .wine img {
     width: 50%;
     margin: 10px 0;
 
+}
+
+.opinion img {
+    width: 50%;
+    margin: 10px 0;
 }
